@@ -1,0 +1,6 @@
+{
+  "name": "PokéGenesis - Simulador de Ecosistema Pokémon",
+  "description": "Simulador sandbox de mundo vivo estilo Pokémon Rojo Fuego con biomas continuos, manadas, alianzas simbióticas, batallas salvajes, evolución natural y modo observador divino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
